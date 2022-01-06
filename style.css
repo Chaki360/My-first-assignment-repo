@@ -18,6 +18,11 @@ color: black;
 
     color: red;
 }
+.header{
+    border-left: 5px solid darkorange;
+    
+    
+}
 .flexible-container{
 
     display: flex;
@@ -33,6 +38,10 @@ color: black;
     color: white;
     padding: 8px 30px;
 
+}
+.scrolling{
+
+    margin-top: 35px;
 }
 .positioning{
 
